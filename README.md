@@ -54,9 +54,9 @@ I am a young developer with a deep passion for building scalable web application
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://streak-stats.demolab.com/?user=AhmadCoderX" alt="GitHub Streak" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadcoderx&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;"/>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; flex-direction: column;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadcoderx&show_icons=true&theme=radical" alt="GitHub Streak" style="width: 70%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadcoderx&layout=compact&theme=radical" alt="Top Languages" style="width: 70%;"/>
 </div>
 
 ---
