@@ -54,7 +54,7 @@ I am a young developer with a deep passion for building scalable web application
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadcoderx&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadCoderX)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadcoderx&layout=compact&theme=radical)
 
