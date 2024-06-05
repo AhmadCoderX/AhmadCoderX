@@ -52,6 +52,7 @@ I am a young developer with a deep passion for building scalable web application
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadCoderX)](https://git.io/streak-stats)
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadCoderX)](https://git.io/streak-stats)
