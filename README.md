@@ -35,19 +35,19 @@ I am a young developer with a deep passion for building scalable web application
 
 ## 📌 Featured Projects
 
-### Project 1: [Inquiry Based Ecommerce Application with Full Product Customization | US Sports]
+### Project 1: Inquiry Based Ecommerce Application with Full Product Customization | US Sports
 - **Description:** US Sports is a sophisticated inquiry-based e-commerce web application meticulously built using the PERN (PostgreSQL, Express.js, React.js, Node.js) stack. The platform is designed to provide a seamless and interactive shopping experience for users looking to customize and purchase sports merchandise.
-- **Repo:** [Site URL](https://umarsaith.com/)
+- **Demo:** [Check it out](https://umarsaith.com/)
 
-### Project 2: [Iphone 15 Clone]
+### Project 2: Iphone 15 Clone
 - **Description:** This project is a clone of Apple's iPhone 15 Pro website built using modern web technologies such as React.js, Three.js, TailwindCSS, and GSAP (Greensock Animations). The site features 3D model rendering of iPhone 15 Pro in various colors and sizes, smooth animations, and a custom video carousel.
 - **Technologies Used:** React.js, Three.js, React Three Fiber, React Three Drei, GSAP (Greensock), Vite, Tailwind CSS.
-- **Repo:** [GitHub Link](https://github.com/AhmadCoderX/iphone-animated-website)
+- **Repo:** [Repo Link](https://github.com/AhmadCoderX/iphone-animated-website)
 
-### Project 3: [Youtube Clone using API from RapidAPI]
+### Project 3: Youtube Clone using API from RapidAPI
 - **Description:** This project is a YouTube clone built using React.js, designed to replicate the core functionalities of the popular video-sharing platform. Leveraging the powerful APIs from RapidAPI, this clone provides users with a seamless experience of video browsing, playback, and interaction. The project aims to offer a similar look and feel to YouTube, allowing users to search for videos, view related recommendations, and explore channel details within an intuitive interface.
 - **Technologies Used:** React.js, Material UI, Axios, RapidAPI
-- **Repo:** [GitHub Link](https://github.com/AhmadCoderX/Hassan-Tube)
+- **Repo:** [Repo Link](https://github.com/AhmadCoderX/Hassan-Tube)
 - **Demo:** [Hassan Tube](https://bright-muffin-b10fbc.netlify.app/)
 
 ---
