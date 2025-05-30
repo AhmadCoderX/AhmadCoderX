@@ -1,79 +1,87 @@
-# Hi there, I'm [Ahmad Hassan](https://ahmadhassandev.online)! 👋
+# Hi there, I'm [Ahmad Hassan](https://ahmad-hassan-gules.vercel.app)! 👋
 
-### 🌟 A Passionate MERN Stack Developer
+### 🚀 MERN Stack Developer & AI-Powered SaaS Builder
 
-I am a young developer with a deep passion for building scalable web applications and beautiful user interfaces. With a strong foundation in the MERN stack and a keen eye for detail, I strive to deliver top-notch solutions that meet the needs of clients and users alike.
+I'm a full-stack developer with 3+ years of experience building scalable web and mobile applications, AI-integrated SaaS products, and intuitive user interfaces. Currently serving as CTO at Kamlogics Tech, I lead teams and ship products that merge technical precision with business strategy.
 
 ---
 
-## 🚀 Skills and Technologies
+## 💼 Experience Highlights
+
+- **CTO at Kamlogics Tech**: Leading an 8-person dev team; built an AI-powered property value estimator with 95% accuracy for the UK market.
+- **Full-Stack Developer at Fabtechsol**: Delivered 6 projects in 6 months, including AI-based tax advisory tools and contractor bidding systems using Vue and Firebase.
+- **Associate Engineer at Technosofts**: Built an e-commerce product configurator and a virtual eyewear try-on tool using React, Node, and OpenCV.
+- **Freelancer**: Delivered 15+ web apps, including booking platforms and admin dashboards.
+
+---
+
+## 🛠️ Skills & Technologies
 
 ### Frontend
-- **React.js**
-- **Next.js**
-- **HTML, CSS, JavaScript**
-- **Material UI**
-- **TailwindCSS**
-- **shadcn**
-- **Redux Toolkit**
-- **Formik, Yup**
-- **Framer Motion**
-- **GSAP**
-- **Konva (for HTML Canvas)**
+- React.js, Next.js, Vue.js
+- TailwindCSS, Material UI, ShadCN, HTML/CSS
+- Redux Toolkit, Formik/Yup, GSAP, Framer Motion, Konva
 
 ### Backend
-- **Node.js**
-- **Express.js**
-- **MongoDB with Mongoose ORM**
-- **PostgreSQL with TypeORM**
-- **Python Flask for AI Development**
+- Node.js, Express.js, Django, REST APIs, Firebase
 
-### Tools and Platforms
-- **Git & GitHub**
+### Databases
+- MongoDB (Mongoose), PostgreSQL (TypeORM), Firebase RTDB
 
----
+### AI/ML
+- OpenAI, RAG, Chatbots, OCR, TensorFlow, OpenCV
 
-## 📌 Featured Projects
-
-### Project 1: Inquiry Based Ecommerce Application with Full Product Customization | US Sports
-- **Description:** US Sports is a sophisticated inquiry-based e-commerce web application meticulously built using the PERN (PostgreSQL, Express.js, React.js, Node.js) stack. The platform is designed to provide a seamless and interactive shopping experience for users looking to customize and purchase sports merchandise.
-- **Demo:** [Check it out](https://umarsaith.com/)
-
-### Project 2: Iphone 15 Clone
-- **Description:** This project is a clone of Apple's iPhone 15 Pro website built using modern web technologies such as React.js, Three.js, TailwindCSS, and GSAP (Greensock Animations). The site features 3D model rendering of iPhone 15 Pro in various colors and sizes, smooth animations, and a custom video carousel.
-- **Technologies Used:** React.js, Three.js, React Three Fiber, React Three Drei, GSAP (Greensock), Vite, Tailwind CSS.
-- **Repo:** [Repo Link](https://github.com/AhmadCoderX/iphone-animated-website)
-
-### Project 3: Youtube Clone using API from RapidAPI
-- **Description:** This project is a YouTube clone built using React.js, designed to replicate the core functionalities of the popular video-sharing platform. Leveraging the powerful APIs from RapidAPI, this clone provides users with a seamless experience of video browsing, playback, and interaction. The project aims to offer a similar look and feel to YouTube, allowing users to search for videos, view related recommendations, and explore channel details within an intuitive interface.
-- **Technologies Used:** React.js, Material UI, Axios, RapidAPI
-- **Repo:** [Repo Link](https://github.com/AhmadCoderX/Hassan-Tube)
-- **Demo:** [Hassan Tube](https://bright-muffin-b10fbc.netlify.app/)
+### Tools & Platforms
+- Git, Docker, AWS, Jira, Agile/Scrum, Shopify, Figma
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Featured Projects
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; flex-direction: column;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadcoderx&show_icons=true&theme=transparent" alt="GitHub Streak" style="width: 50%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadcoderx&layout=compact&theme=transparent" alt="Top Languages" style="width: 50%;"/>
+### 🧠 AI Tax Advisory SaaS
+Subscription-based platform with OpenAI bots and OCR scanning for CPAs.  
+**Tech**: Next.js, Django, Stripe, OpenAI.
+
+### 🛒 E-Commerce Product Configurator  
+Custom product builder for manufacturers with real-time previews.  
+**Tech**: React, Redux, Node.js, PostgreSQL.
+
+### 🏡 ADU Placement Shopify App  
+Visual mapping and bidding system for property development.  
+**Tech**: Remix, Firebase, Mapbox.
+
+### 📱 iPhone 15 Pro Clone  
+High-fidelity product showcase using 3D models, GSAP animations.  
+[Repo](https://github.com/AhmadCoderX/iphone-animated-website)
+
+### 📺 HassanTube (YouTube Clone)  
+React app fetching videos from RapidAPI with custom video components.  
+[Demo](https://bright-muffin-b10fbc.netlify.app/) | [Repo](https://github.com/AhmadCoderX/Hassan-Tube)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadcoderx&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadcoderx&layout=compact&theme=transparent" />
 </div>
 
 ---
 
-## 🔗 Connect with Me
+## 📫 Let's Connect
 
-- **LinkedIn:** [Ahmad Hassan](https://www.linkedin.com/in/ahmad-hassan-x/)
-- **Portfolio:** [My Portfolio](https://ahmadhassandev.online)
-- **Email:** [Email Me!](mailto:heyahmadhassan@gmail.com)
+- **Portfolio**: [ahmadhassandev.online](https://ahmad-hassan-gules.online)
+- **LinkedIn**: [Ahmad Hassan](https://www.linkedin.com/in/ahmadhassan14/)
+- **GitHub**: [AhmadCoderX](https://github.com/AhmadCoderX)
+- **Email**: [heyahmadhassan@gmail.com](mailto:heyahmadhassan@gmail.com)
 
 ---
-
 
 ## 💡 Fun Fact
 
-When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or reading about the latest trends in web development.
+When I'm not coding or managing teams, I’m exploring AI tech, mentoring junior devs, or playing a competitive game of badminton.
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just chat about tech. 😊
+Thanks for visiting my profile! Feel free to reach out to collaborate, chat tech, or just connect. 😊
